@@ -10,7 +10,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [💻 Kanban Board ](#-kanban-board-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -73,7 +72,7 @@ Run the tests using
 ### Usage
 
 Then run the app with the command
-`npm run test`
+`npm run dev`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
